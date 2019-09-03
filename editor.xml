@@ -1,0 +1,23 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="DialogInput" />
+    <option name="LINE_SPACING" value="0.8" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="HTML" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="Perl5" value="true" />
+        <entry key="Perl5 POD" value="false" />
+        <entry key="Python" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+  </component>
+</application>
