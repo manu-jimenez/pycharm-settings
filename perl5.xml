@@ -12,7 +12,6 @@
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///mnt/meteologica/fs.calibracion.prod.meteologica.com/eolica/bin" type="simple" />
             <root url="file:///opt/perlbrew/perls/perl-5.24.4/lib/site_perl/5.24.4/x86_64-linux" type="simple" />
             <root url="file:///opt/perlbrew/perls/perl-5.24.4/lib/site_perl/5.24.4" type="simple" />
             <root url="file:///opt/perlbrew/perls/perl-5.24.4/lib/5.24.4/x86_64-linux" type="simple" />
