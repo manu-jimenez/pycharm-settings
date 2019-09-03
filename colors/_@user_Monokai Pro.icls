@@ -4,7 +4,7 @@
     <property name="created">2019-03-26T12:24:15</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-26T12:33:16</property>
+    <property name="modified">2019-09-03T14:04:18</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -182,7 +182,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="1b6363" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -2708,7 +2709,6 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="ffd866" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
