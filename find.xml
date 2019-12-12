@@ -1,19 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pm, *.pl" />
+    <option name="FILE_MASK" value="*.t" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
-    <mask>*.t</mask>
     <mask>*.pl, *.pm</mask>
     <mask>*.sql</mask>
     <mask>*.pm, *.pl</mask>
+    <mask>*.t</mask>
   </component>
 </application>
