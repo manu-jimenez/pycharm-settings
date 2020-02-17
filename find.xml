@@ -5,16 +5,16 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pg" />
+    <option name="FILE_MASK" value="*.pl, *.pm" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
-    <mask>*.pl, *.pm</mask>
     <mask>*.t</mask>
     <mask>*.sql</mask>
     <mask>*.pm, *.pl</mask>
     <mask>*.pg</mask>
+    <mask>*.pl, *.pm</mask>
   </component>
 </application>
