@@ -3,16 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pl, *.pm" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>*.t</mask>
-    <mask>*.sql</mask>
     <mask>*.pm, *.pl</mask>
     <mask>*.pg</mask>
     <mask>*.pl, *.pm</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
