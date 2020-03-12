@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.pl, *.pm" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,7 +12,7 @@
     <mask>*.t</mask>
     <mask>*.pm, *.pl</mask>
     <mask>*.pg</mask>
-    <mask>*.pl, *.pm</mask>
     <mask>*.sql</mask>
+    <mask>*.pl, *.pm</mask>
   </component>
 </application>
